@@ -1,2 +1,2 @@
-# LinearRegression
+# Linear Regression
 Linear Regression Demo
